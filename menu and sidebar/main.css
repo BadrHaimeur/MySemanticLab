@@ -1,0 +1,12 @@
+body {
+    background-color: #F9F9F9;
+}
+nav.menu>.brand>.name {
+    margin-left: 10px;
+}
+#wrapper>.content {
+    padding-top: 60px;
+}
+#wrapper>.sidebar {
+    border-right: 1px #323232 solid;
+}
